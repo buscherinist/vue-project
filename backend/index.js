@@ -1,3 +1,5 @@
+//per far partire il server nodejs
+//da dentro la cartella backend eseguire il comando: node index.js
 const express = require('express');
 const mysql = require('mysql2');
 const cors = require('cors');
